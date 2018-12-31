@@ -1,0 +1,71 @@
+
+body{
+    font-family: arial;
+    color:#929292;
+}
+label{
+    color:#373634;
+    text-transform: uppercase;
+    font-weight: 130%;
+    overflow: visible; 
+}
+h1{
+    font-size: 48px;
+}
+p{
+    padding-bottom: 25.2px;
+}
+input{
+    border: 0;
+    padding-left: 20px;
+}
+button{
+    width: 177px;
+    height: 50px;
+    color: #ffffff;
+    background-color: #046ce6;
+    border-radius: 30px;
+    margin: 60px 0 54px;
+    float: right;
+    font-size:16pt;
+}
+form{
+    overflow: hidden;
+    clear: both;
+}
+.container{
+    /* dung maxwidth de lam responsive*/
+    max-width: 1206px;
+    margin: 50px auto;
+}
+/* tao bo cuc cho trang web */
+.col{
+    float:left;
+    box-sizing: border-box;
+    margin-bottom: 48px;
+    border-bottom: 1px solid #b5b5b5;
+}
+.col-1-2{
+    width: 50%;
+}
+.col-1-5{
+    width: 30%;
+}
+.col-4-5{
+    width: 70%;
+}
+.col-right{
+    padding-top:0px ;
+    padding-left: 100px;
+    padding-right: 104px;
+    padding-bottom: 0px;
+}
+.form-group{
+    border-bottom: #151515;
+}
+.social-list{
+    padding-bottom: 81px
+}
+.icon-social{
+    padding-right:32px;
+}
